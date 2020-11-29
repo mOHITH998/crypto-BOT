@@ -1,0 +1,17 @@
+{
+  "name": "cryptoBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "nodemon": "^2.0.4",
+    "telegraf": "^3.38.0"
+  }
+}
