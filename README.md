@@ -1,7 +1,7 @@
 # Crypto-Bot 
 - crypto Telegram bot using Node.js
 
-![commands example](Img/Crypto-Bot.jpg)
+![commands example](Img/crypto-img.jpg)
 
 ### What is it??
 - This Bot is Created to Track the Prices of Crypto currencies
