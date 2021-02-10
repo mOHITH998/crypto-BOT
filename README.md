@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # CRYPTO BOT - [Telegram]
 
 - crypto Telegram bot using Node.js
@@ -31,8 +32,8 @@ $ npm start
 
 ## Status
 
-NEXT PROJECT ==> In Progress 👨‍💻
-=======
+# NEXT PROJECT ==> In Progress 👨‍💻
+
 # CRYPTO BOT - [Telegram]
 
 - crypto Telegram bot using Node.js
@@ -68,4 +69,3 @@ $ npm start
 NEXT PROJECT ==> In Progress 👨‍💻
 
 # Telegram Crypto-Bot 🤖# crypto-BOT
->>>>>>> a21261135e9ca833cfce0241d265a8daad53bac9
