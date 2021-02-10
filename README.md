@@ -1,4 +1,4 @@
-# CRYPTO BOT [Telegram]
+# CRYPTO BOT - [Telegram]
 
 - crypto Telegram bot using Node.js
 
