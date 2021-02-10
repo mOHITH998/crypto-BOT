@@ -4,7 +4,7 @@
 
 - crypto Telegram bot using Node.js
 
-![commands example](Img/Screenshot.png)
+![commands example](Img/screenshot.png)
 
 ### What is it??
 
