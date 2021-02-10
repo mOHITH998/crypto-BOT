@@ -31,5 +31,3 @@ $ npm start
 ## Status
 
 NEXT PROJECT ==> In Progress 👨‍💻
-
-# Telegram Crypto-Bot 🤖# crypto-BOT
